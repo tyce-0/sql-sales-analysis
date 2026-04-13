@@ -1,18 +1,25 @@
-# sql-sales-analysis
-Objective:
+
+# SQL Sales Analysis Project
+
+## 📌 Objective
+
 Analyze sales data to identify trends and performance over time.
 
-🛠️ Tools Used
-SQL
- 
-Key Analysis:
-Orders by year (1996 vs 1997)
-Growth trends
-Sales distribution
+## 🛠️ Tools Used
 
- Files:
-sales_queries.sql
+* SQL
 
-Insights:
-Sales increased significantly from 1996 to 1997
-Identified yearly growth patterns
+## 📊 Key Analysis
+
+* Orders by year (1996 vs 1997)
+* Growth trends
+* Sales distribution
+
+## 📁 Files
+* insert_data.sql
+* sales_queries.sql
+
+## 📈 Insights
+
+* Sales increased significantly from 1996 to 1997
+* Identified yearly growth patterns
